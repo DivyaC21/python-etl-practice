@@ -1,0 +1,10 @@
+Divya,Chennai,100
+Rahul,Bangalore,200
+Anu,Hyderabad,150
+Kiran,Chennai,300
+Maya,,250
+Arun,Pune,
+Divya,Chennai,100
+Sita,Mumbai,500
+John,Delhi,50
+Priya,Chennai,400
